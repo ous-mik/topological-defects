@@ -12,7 +12,7 @@ Please see the Methods section of the manuscript for details.
 
 ## Calculation of cell velocity
 
-To calculate the velocity field using Particle Image Velocimetry (PIV), we employed a script that utilized the OpenPIV package. The average cell speed was extracted from the PIV data using the Python script `???.py`.
+To calculate the velocity field using Particle Image Velocimetry (PIV), we employed a script that utilized the OpenPIV package. The average cell speed was extracted from the PIV data using the Python script `Defects.py`.
 
 In addition, data on the average cell speed in monolayers subjected to stimulation, was extracted by single particle tracking carried out using the TrackMate plugin in ImageJ. The average cell speed per frame was calculated using the Python script `TrackMate_speed_data.py`.
 
