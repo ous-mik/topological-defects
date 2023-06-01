@@ -5,7 +5,7 @@
 This repository contains Python scripts accompanying the following manuscript:
 
 Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Gunnar Dommersnes, and Stig Ove Bøe (2023)</br>
-**Integer topological defect annihilations drive polar ordering of epithelial monolayers** (in prep.)
+**Topology-guided polar ordering of epithelial monolayers** (submitted)
 
 Please see the Methods section of the manuscript for details.
 
