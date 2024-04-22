@@ -1,13 +1,15 @@
 # Topological defects
 
-## Manuscript
+## Publication
 
-This repository contains Python scripts accompanying the following manuscript:
+This repository contains Python scripts accompanying the following paper:
 
-Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Gunnar Dommersnes, and Stig Ove Bøe (2023)</br>
-**Topology-guided polar ordering of epithelial monolayers** (submitted)
+Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Gunnar Dommersnes, and Stig Ove Bøe (2024)</br>
+**Topology-guided polar ordering of collective cell migration**</br>
+Science Advances, 10 (16), eadk4825</br>
+doi: [10.1126/sciadv.adk4825](https://doi.org/10.1126/sciadv.adk4825)
 
-Please see the Methods section of the manuscript for details.
+Please see the Methods section of the paper for details.
 
 
 ## Scripts
@@ -24,7 +26,7 @@ In addition, data on the average cell speed in monolayers subjected to stimulati
 
 ### Detection and analysis of +1 and -1 topological defects
 
-The +1 and -1 topological defects were detected using the Python script `Defects.py`. Dependencies: openpiv (version 0.24.2), numpy (version 1.23.5), matplotlib (version 3.7.1), pandas (version 1.5.3), scipy (version 1.10.1), imageio (version 2.26.1).
+The +1 and -1 topological defects were detected using the Python script `Defects.py`. Dependencies: openpiv (version 0.24.2), numpy (version 1.23.5), matplotlib (version 3.7.1), pandas (version 1.5.3), scipy (version 1.10.1), and imageio (version 2.26.1).
 
 
 ### Calculation of spatial correlation length
